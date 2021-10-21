@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Valerii!</h1>
 <h3 align="center">Computer enthusiast with a strong will to try out new things. My passion is learning more about coding and blockchain!</h3>
 <h4 align="center">
-  - 🔭 I’m currently a student of of Denver Univercity Coding bootcamp;
+   🔭 I’m currently a student of of Denver Univercity Coding bootcamp;
 | 🌱  Currently learning Node.js;</h4>
 
 
@@ -40,5 +40,4 @@ Find me on:
 
 
 
-<p><img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?valllerian=anuraghazra&show_icons=true&theme=radical)
-" alt="lmachens" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?valllerian=anuraghazra&show_icons=true&theme=radical" alt="lmachens" /></p>
