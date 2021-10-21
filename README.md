@@ -31,8 +31,9 @@ Find me on:
 
 <a href="mailto:valeriibihun.co@gmail.com" >valeriibihun.co@gmail.com</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valllerian&layout=compact)](https://github.com/valllerian/github-readme-stats)
-![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valllerian&show_icons=true)
+<div  align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valllerian&layout=compact)](https://github.com/valllerian/github-readme-stats)</div>
+<div  align="center">![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valllerian&show_icons=true)
+</div>
 
 
 
@@ -43,4 +44,3 @@ Find me on:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?valllerian=anuraghazra&show_icons=true&theme=radical)
