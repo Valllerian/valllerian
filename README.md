@@ -6,7 +6,7 @@ My name is Valerii Bihun and I am a future web developer and a current student o
 
 Here are a few technologies have been working with recently:
 
-- JavaScript <img src="https://img.shields.io/badge/-javascript" alt="Girl in a jacket" >
+- JavaScript <img src="https://img.shields.io/badge/-Javascript-lightblue?logo=#F7DF1E" alt="Javascript badge" >
 - CSS 
 - HTML
 - Node.js
