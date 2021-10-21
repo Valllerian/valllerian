@@ -31,6 +31,8 @@ Find me on:
 
 <a href="mailto:valeriibihun.co@gmail.com" >valeriibihun.co@gmail.com</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valllerian&layout=compact)](https://github.com/valllerian/github-readme-stats)
+
 
 
 
