@@ -33,8 +33,6 @@ Find me on:
 
 ## My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valllerian&layout=compact&theme=dracula)
-](https://github.com/valllerian/github-readme-stats)
  ![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valllerian&show_icons=true&theme=dracula)
 
 
