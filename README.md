@@ -40,4 +40,4 @@ Find me on:
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?valllerian=anuraghazra&show_icons=true&theme=radical" alt="lmachens" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?valllerian=anuraghazra&show_icons=true&theme=radical)
