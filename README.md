@@ -23,9 +23,9 @@ My portfolio is available at: <a href="https://valllerian.github.io/Portfolio/" 
 ## Social links:
 
 Find me on:
-<a href="https://www.linkedin.com/in/valerii-bihun-8b0450217/" target="_blank">LinkedIn</a>
-<a href="https://www.instagram.com/vallerianinst/" target="_blank">Instagram</a>
-<a href="https://twitter.com/VallerianCRPT" target="_blank">Twitter</a>
+- <a href="https://www.linkedin.com/in/valerii-bihun-8b0450217/" target="_blank">LinkedIn</a>
+- <a href="https://www.instagram.com/vallerianinst/" target="_blank">Instagram</a>
+- <a href="https://twitter.com/VallerianCRPT" target="_blank">Twitter</a>
 
 ## Contact me:
 
