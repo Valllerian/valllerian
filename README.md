@@ -20,6 +20,10 @@ Here are a few technologies have been working with recently:
 
 My portfolio is available at: <a href="https://valllerian.github.io/Portfolio/" target="_blank">github.io/Portfolio/</a>
 
+## Resume
+
+My current resume is available at: <a href="https://docs.google.com/document/d/e/2PACX-1vS0EvOOEmjTRLfCC-onOE4TGVlyhIAhRvREbY8MQApYmhRHEWfH185rI9rcQMGhTVBuXWFeu_zFlYaG/pub" target="_blank">Resume</a>
+
 ## Social links:
 
 Find me on:
