@@ -7,11 +7,11 @@ My name is Valerii Bihun and I am a future web developer and a current student o
 Here are a few technologies have been working with recently:
 
 - JavaScript <img src="https://img.shields.io/badge/-Javascript-lightblue?logo=javascript" alt="Javascript badge" >
-- CSS 
-- HTML
-- Node.js
-- WordPress
-- Solidity
+- CSS <img src="https://img.shields.io/badge/-CSS-lightblue?logo=CSS" alt="CSS badge" >
+- HTML <img src="https://img.shields.io/badge/-HTML-lightblue?logo=HTML" alt="HTML badge" >
+- Node.js <img src="https://img.shields.io/badge/-Node.js-lightblue?logo=Node.js" alt="Node.js badge" >
+- WordPress <img src="https://img.shields.io/badge/-WordPress-lightblue?logo=WordPress" alt="WordPress badge" >
+- Solidity <img src="https://img.shields.io/badge/-Solidity-lightblue?logo=Solidity" alt="Solidity badge" >
 
 ## Portfolio
 
