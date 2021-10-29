@@ -37,7 +37,7 @@ Find me on:
 
 ## My stats:
 
- ![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valllerian&show_icons=true&theme=dracula)
+ ![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=valllerian&show_icons=true&theme=dracula)
 
 
 
