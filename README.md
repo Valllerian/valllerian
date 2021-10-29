@@ -39,7 +39,7 @@ Find me on:
 
 <div align="center">
    
-[![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=valllerian&show_icons=true&theme=dracula)]
+![Valllerians's GitHub stats](https://github-readme-stats.vercel.app/api?username=valllerian&show_icons=true&theme=dracula)
    
 </div>
 
