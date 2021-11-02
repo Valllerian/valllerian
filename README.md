@@ -2,7 +2,7 @@
 <h3 align="center">Computer enthusiast with a strong will to try out new things. My passion is learning more about coding and blockchain!</h3>
 <h4 align="center">
    🔭 I’m  a student of Denver Univercity Coding bootcamp;
-| 🌱  Currently learning Node.js;</h4>
+| 🌱  Currently learning Express.js;</h4>
 
 
 ## Skills:
