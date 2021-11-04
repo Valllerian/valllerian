@@ -18,7 +18,7 @@ Here are a few technologies I have been working with recently:
 
 ## Portfolio
 
-My portfolio is available at: <a href="https://valllerian.github.io/Portfolio/" target="_blank">github.io/Portfolio/</a>
+My portfolio is available at: <a href="valllerian.github.io/updated-portfolio/" target="_blank">github.io/Portfolio/</a>
 
 ## Resume
 
