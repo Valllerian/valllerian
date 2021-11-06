@@ -10,7 +10,7 @@
 Here are a few technologies I have been working with recently:
 
 -  <img src="https://img.shields.io/badge/-Javascript-lightblue?logo=javascript" alt="Javascript badge" >
--  <img src="https://img.shields.io/badge/-CSS-lightblue?logo=CSS" alt="CSS badge" >
+-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 -  <img src="https://img.shields.io/badge/-HTML-lightblue?logo=HTML" alt="HTML badge" >
 -  <img src="https://img.shields.io/badge/-Node.js-lightblue?logo=Node" alt="Node.js badge" >
 -  <img src="https://img.shields.io/badge/-WordPress-lightblue?logo=WordPress" alt="WordPress badge" >
