@@ -27,7 +27,7 @@ My portfolio is available at: <a href="https://valllerian.github.io/Updated-Port
 
 ## Resume
 
-My current resume is available at: <a href="https://docs.google.com/document/d/e/2PACX-1vS0EvOOEmjTRLfCC-onOE4TGVlyhIAhRvREbY8MQApYmhRHEWfH185rI9rcQMGhTVBuXWFeu_zFlYaG/pub" target="_blank">Resume</a>
+My current resume is available at: <a href="https://docs.google.com/document/d/1UyTFrmeegbW8ICHzXfO2SqQ1QVWADt9xeuQd3kLGxjk/edit?usp=sharing" target="_blank">Resume</a>
 
 ## Social links:
 
