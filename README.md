@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Valerii!](https://valllerian.github.io/Updated-Portfolio/) 
+### Hey 👋🏽, I'm [Vallerian!](https://valllerian.github.io/Updated-Portfolio/) 
 
 <a href="https://twitter.com/VallerianCRPT">
   <img align="left" alt="Vallerians  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Valerii Bihun, a Full Stack Web Developer 🚀 from Denver, Colorado. Originally from Kyiv, Ukraine :ukraine:, I have graduated from Denver University Coding Bootcamp and now looking for my first full-time position! :raised_hands:
+Hi, my name is Valerii Bihun, and I am a Full Stack Web Developer 🚀 from Denver, Colorado. Originally from Kyiv, Ukraine :ukraine:, I have graduated from Denver University Coding Bootcamp and now looking for my first full-time position! :raised_hands:
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
