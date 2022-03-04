@@ -1,12 +1,12 @@
 ### Hey 👋🏽, I'm [Vallerian!](https://valllerian.github.io/Updated-Portfolio/) 
 
-<a target="_blank" href="https://twitter.com/VallerianCRPT">
+<a href="https://twitter.com/VallerianCRPT">
   <img align="left" alt="Vallerians  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/valerii-bihun-8b0450217/">
+<a href="https://www.linkedin.com/in/valerii-bihun-8b0450217/">
   <img align="left" alt="Vallerians's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/vallerianinst/">
+<a href="https://www.instagram.com/vallerianinst/">
   <img align="left" alt="Vallerians's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
