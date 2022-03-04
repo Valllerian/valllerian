@@ -43,4 +43,4 @@ Hi, my name is Valerii Bihun, and I am a Full Stack Web Developer 🚀 from Denv
 <br />
 <br />
 
-[Portfolio:](https://valllerian.github.io/Updated-Portfolio/) 
+[Check out my portfolio!](https://valllerian.github.io/Updated-Portfolio/) 
