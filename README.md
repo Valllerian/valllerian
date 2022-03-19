@@ -24,7 +24,7 @@ Hi, my name is Valerii Bihun, and I am a Full Stack Web Developer 🚀 from Denv
 - 🤔 I’m looking for help with Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: valeriibihun.co@gmail.com;
-- 📝[Resume](https://docs.google.com/document/d/1UyTFrmeegbW8ICHzXfO2SqQ1QVWADt9xeuQd3kLGxjk/view)
+- 📝[Resume](https://drive.google.com/file/d/1sl9rKOXfMmRLGk0Gte87FSpE0J-36suM/view)
 
 **Languages and Tools:**  
 
