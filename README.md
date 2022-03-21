@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Vallerian!](https://valllerian.github.io/Updated-Portfolio/) 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=valllerian.visitor-badge&left_color=red&right_color=green&left_text=HelloFriends)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vallerian.visitor-badge&left_color=red&right_color=green&left_text=HelloFriends)
 <a href="https://twitter.com/VallerianCRPT">
   <img align="left" alt="Vallerians  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
