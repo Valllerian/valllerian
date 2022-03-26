@@ -19,7 +19,7 @@ Hi, my name is Valerii Bihun, and I am a Full Stack Web Developer 🚀 from Denv
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning GraphQL and React; 
+- 🌱 I’m currently learning TypeScript, React and Accessability; 
 - 👯 I’m looking to collaborate on projects 🤝;
 - 🤔 I’m looking for help with Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
