@@ -42,6 +42,5 @@ Hi, my name is Valerii Bihun, and I am a Full Stack Web Developer 🚀 from Denv
 [![Vallirians's GitHub stats](https://github-readme-stats.vercel.app/api?username=valllerian&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valllerian&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
-<br />
 
 [Check out my portfolio!](https://valllerian.github.io/Updated-Portfolio/) 
