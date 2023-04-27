@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/valerii-bihun-8b0450217/">
   <img align="left" alt="Vallerians's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/vallerianinst/">
-  <img align="left" alt="Vallerians's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br />
 <br />
@@ -24,7 +21,6 @@ Hi, my name is Valerii Bihun, and I am a Full Stack Web Developer 🚀 from Denv
 - 🤔 I’m looking for help with Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: valeriibihun.co@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1sl9rKOXfMmRLGk0Gte87FSpE0J-36suM/view)
 
 **Languages and Tools:**  
 
